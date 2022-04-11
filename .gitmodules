@@ -1,0 +1,3 @@
+[submodule "ilikeit"]
+	path = ilikeit
+	url = https://github.com/DekBaCom/ilikeit.git
