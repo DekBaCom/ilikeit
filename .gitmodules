@@ -1,3 +1,6 @@
 [submodule "ilikeit"]
 	path = ilikeit
 	url = https://github.com/DekBaCom/ilikeit.git
+[submodule "themes/themes/blow"]
+	path = themes/themes/blow
+	url = https://github.com/DekBaCom/ilikeit.git
