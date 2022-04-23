@@ -25,4 +25,4 @@ jobs:
           PAGES_BRANCH: master
           BUILD_DIR: .
           TOKEN: ${{ secrets.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 }}
-          REPOSITORY: DekBaCom/DekBaCom.github.com
+          REPOSITORY: ilikeit/DekBaCom.github.com
