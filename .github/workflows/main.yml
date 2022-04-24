@@ -15,4 +15,4 @@ jobs:
     - name: Build and deploy
       uses: shalzz/zola-deploy-action@master
       env:
-        GITHUB_TOKEN: ${{ secrets.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 }}
+        GITHUB_TOKEN: ${{ secrets.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 }}
